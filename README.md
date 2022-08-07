@@ -1,3 +1,3 @@
 # WeSplit
 
-My code for Project 1 in 100 Days of SwiftUI 
+My code for Project 1 from 100 Days of SwiftUI 
